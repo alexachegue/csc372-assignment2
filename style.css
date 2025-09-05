@@ -109,6 +109,19 @@ blockquote strong{
     gap: 2rem;
 }
 
+ul.tips{
+    list-style:none;
+    padding: 0;
+    margin: 0;
+}
+
+ul.tips li{
+    background: url('images/bullet-icon.png') no-repeat left;
+    background-size: 25px 25px;
+    padding-left: 2em;
+    margin: 1em;
+}
+
 #home-photo{
     width: 80%;
     height: 100%;
